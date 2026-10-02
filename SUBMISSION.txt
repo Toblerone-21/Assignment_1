@@ -1,0 +1,51 @@
+======================================================================
+ CS 1430  -  ASSIGNMENT 1  -  SUBMISSION RECEIPT
+======================================================================
+ Status         : COMPLETE - all checks passed
+ GitHub user    : Toblerone-21
+ Repository     : https://github.com/Toblerone-21/Assignment_1
+ Commit         : 7fb2251  Initial commit
+ Commit author  : Toblerone-21
+ Generated      : 2026-10-02 09:18:33
+
+ SELF CHECK
+======================================================================
+ CS 1430  -  ASSIGNMENT 1 SELF CHECK
+ 2026-10-02 09:18:33   Toblerone-21
+======================================================================
+ [PASS] Python is installed                        3.14.8
+ [PASS] main.py is in this folder                  
+ [PASS] main.py runs without an error              
+ [PASS] The ASCII art is unchanged                 
+ [PASS] You added at least one print statement     1 added
+ [PASS] Your name shows up when the program runs   8 new lines of output
+ [PASS] Git is installed                           git version 2.56.0.windows.1
+ [PASS] This folder is a Git repository            
+ [PASS] You have made a commit                     "Initial commit"
+ [PASS] This repo points at GitHub                 github.com/Toblerone-21/Assignment_1
+ [PASS] Your commit is pushed to GitHub            7fb2251
+======================================================================
+
+ WHAT YOUR PROGRAM PRINTED
+======================================================================
+
+ _______         __ __
+|   |   |.-----.|  |  |.-----.
+|       ||  -__||  |  ||  _  |__
+|___|___||_____||__|__||_____|  |
+                              |_|
+ ________              __     __ __
+|  |  |  |.-----.----.|  |.--|  |  |
+|  |  |  ||  _  |   _||  ||  _  |__|
+|________||_____|__|  |__||_____|__|
+
+CS 1430  |  Introduction to Python  |  UW-Platteville
+"
+TTTTTTTTT  OOOOOOOOO  BBBBBBBBB  Y       Y     
+    T      OO     OO  BB     BB   Y     Y
+    T      OO     OO  BB    BB     Y   Y
+    T      OO     OO  BBBBBB         Y
+    T      OO     OO  BB    BBB      Y
+    T      OO     OO  BB     BB      Y
+    T      OOOOOOOOO  BBBBBBBBB      Y
+======================================================================
